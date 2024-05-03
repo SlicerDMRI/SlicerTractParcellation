@@ -1,5 +1,5 @@
 # TractParcellation
-Automatic parcellation of white matter tractography using WMA method and ORG atlas.
+Automatic parcellation of white matter tractography using [WMA](https://whitematteranalysis.readthedocs.io/en/latest/index.html) method and [ORG](https://dmri.slicer.org/atlases/) atlas.
 
 
 <div align="center">
